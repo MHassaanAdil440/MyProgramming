@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        P01.reverseIntArray();
+        DS_P01.reverseIntArray();
     }
 }

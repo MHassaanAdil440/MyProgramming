@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class P01 {
+public class DS_P01 {
     public static void reverseIntArray() {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-/*HACKER RANK PROBLEM # 01
+/*HACKER RANK DS PROBLEM # 01
  * Problem Statement:In an array, , of size , each memory location has some unique index,  (where ), 
  * that can be referenced as  or .
  *  Reverse an array of integers.
